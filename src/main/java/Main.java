@@ -4,6 +4,8 @@ public class Main {
 
         Dog dog = new Dog("Collie", 8, 20, 2, 4, 1, 20, "Blue merle");
         dog.eat();
+        dog.walk();
+        dog.run();
 
     }
 }
